@@ -1,12 +1,7 @@
 from __future__ import print_function
 import random
 
-buzz = ('continuous testing', 'continuous integration',
-    'continuous deployment', 'continuous improvement', 'devops')
-adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
-adverbs = ('crazy', 'stupendous', 'volumnious', 'horrendous',
-    'seriously')
-verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
+
 
 def sample(l, n = 1):
     result = random.sample(l, n)
