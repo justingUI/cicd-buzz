@@ -4,7 +4,7 @@ import random
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
-adverbs = ('fantastic', 'crazy', 'volumnious', 'horrendous',
+adverbs = ('amazingly', 'stupendous', 'volumnious', 'horrendous',
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
 
